@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="utf-8">
+  <title>Carolyn Clare</title>
+  
+  <meta name="description" content="A description of the page.">
+  
+<link rel="stylesheet" href="blur.css" type="text/css">
+  
+  </style>
+</head>
+<body>
+<h1>Hi, my name is <i>Lyn</i></h1>
+<h3> My favorite movies are...</h3>
+
+<table>
+	<thead>
+		<tr>
+			<th>Movie</th>
+			<th>Distributor</th>
+			<th>Release Date</th>
+			<th>Box Office Gross</th>
+			<th>Source</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Star Trek</td>
+			<td>Paramount</td>
+			<td>5/8/2009</td>
+			<td>$257,730,019</td>
+			<td><a href="http://www.boxofficemojo.com/search/?q=star%20trek" Source>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+	</html>
