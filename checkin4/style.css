@@ -1,0 +1,35 @@
+body {
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	font-family: "lato", sans-serif;
+	font-size: 100%;
+	background-color: #CDAA3D;
+	color: white ;
+	padding-left: 20%;
+	padding-right:20%;
+}
+#container {
+	width: 960px;
+	margin: 0 auto 0 auto;
+}
+
+
+
+
+h1 {
+	font-size: 400%;
+	font-family: 'Monsieur La Doulaise', cursive;
+	  font-size: 88px;
+	  ;
+}
+
+h2
+{ 
+	font-size: 200%;
+	background-color: hotpink;
+	padding-right: 40%;}
+	
+	
+	.td {
+		padding-left: 5%;
+	}
