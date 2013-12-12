@@ -1,0 +1,48 @@
+body {
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	font-family: "lato", sans-serif;
+	font-size: 90%;
+	background-color: #CDAA7D;
+	color: white ;
+}
+#container {
+	width: 400px;
+	margin: 2 auto 2 auto;
+}
+
+
+header{
+	margin-top: 2.5%;
+	margin-bottom: 5%;
+	font-family: 'Unna', serif;
+}
+
+section {
+	margin-top: 4.5%;
+	margin-bottom: 4.5%;
+	background-color: #68838B;
+	padding: 5% 2 5% 2;
+	box-shadow: 4px 3px 3px #333;
+}
+h1 {
+	font-size: 400%;
+}
+
+h2
+{ 
+	font-size: 200%;
+	background-color: #104E8B;
+}
+	
+	h3 {
+		font-size: 150%;
+		margin-top: 2%;
+	}
+	h4{
+		padding-left: 5%;
+	}
+	p {
+		padding-left: 20%;
+	}
+	
